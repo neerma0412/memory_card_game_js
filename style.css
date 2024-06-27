@@ -64,5 +64,5 @@ body {
 .card .back {
     background-size: cover;
     background-position: center;
-    /* transform: rotateY(180deg); */
+    transform: rotateY(180deg);
 }
